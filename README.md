@@ -1,5 +1,6 @@
 # Udacity-Deep-learning-Foundation
 
+I started on March 23th, 2017, and I completed this Nanodegree on July 25th, 2017.
 
 ## PART 1
 
