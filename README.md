@@ -11,6 +11,8 @@ In this section, you’ll learn how it works and test your ability by building a
 
 - Project: Your first neural network
 
+https://github.com/grapestone5321/dlnd_first-neural-netwok
+
 
 ## PART 2
 
@@ -24,7 +26,7 @@ You’ll learn how this neural network works and apply to a image classification
 
 - Project: Image Classification
 
-
+https://github.com/grapestone5321/dlnd_image-classification
 
 ## PART 3
 
@@ -38,8 +40,11 @@ This section will teach you how to build and train a recurrent neural.
 
 - Project: Generate TV Scripts
 
+https://github.com/grapestone5321/dlnd_tv-script-generation
+
 - Project: Translation Project
 
+https://github.com/grapestone5321/dlnd_language-translation
 
 
 ## PART 4
@@ -53,6 +58,8 @@ This is commonly used to generate image data.
 You’ll learn how to build your own generative adversarial network and pit two neural networks against each other.
 
 - Project: Generate Faces
+
+https://github.com/grapestone5321/dlnd_face_generation
 
 
 ## PART 5
