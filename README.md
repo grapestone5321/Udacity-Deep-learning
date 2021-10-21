@@ -69,3 +69,43 @@ Guaranteed Admission into your next Nanodegree
 
 Utilize your guaranteed admission and enroll into a Career-Ready Nanodegree Program
 
+
+
+-------
+
+## PART 1
+
+
+### LESSON 1: Welcome
+Welcome to the Deep Learning Nanodegree Foundations Program! In this lesson, you'll meet your instructors, find out about the field of Deep Learning, and learn how to make the most of the resources Udacity provides.
+
+
+### LESSON 2: Applying Deep Learning
+In this lesson, you'll get your hands dirty by playing around with a few examples of deep learning. Don't worry if you don't understand what's going on! The goal here is just for you to play around with some models others have already created and have fun.
+
+
+### LESSON 3: Anaconda
+Anaconda is a package and environment manager built specifically for data. Learn how to use Anaconda to improve your data analysis workflow.
+
+
+### LESSON 4: Jupyter Notebooks
+Learn how to use Jupyter Notebooks to create documents combining code, text, images, and more.
+
+
+### LESSON 5: Regression
+Learn about linear regression and logistic regression models. These simple machine learning models are the building blocks of neural networks.
+
+
+### LESSON 6: Matrix Math and NumPy Refresher
+In this lesson, you'll review the matrix math you'll need to understand to build your neural networks. You'll also explore NumPy, the library you'll use to efficiently deal with matrices in Python.
+
+
+### LESSON 7: Intro to Neural Networks
+In this lesson, you'll dive deeper into the intuition behind Logistic Regression and Neural Networks. You'll also implement gradient descent and backpropagation in python right here in the classroom.
+
+
+### PROJECT: Your first neural network
+In this project, you'll build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day. Good luck!
+
+-------
+
