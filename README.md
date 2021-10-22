@@ -159,151 +159,87 @@ Classify images from the CIFAR-10 dataset using a convolutional neural network.
 ## PART 3
 
 
-Proceed to Part 4 to continue learning
 
-100% VIEWED
-PROJECTSPROJECT COMPLETEDPROJECT COMPLETED
-
-
-View
-LESSON 1
-Intro to Recurrent Neural Networks
+### LESSON 1: Intro to Recurrent Neural Networks
 Recurrent neural networks are able to learn from sequences of data. In this lesson, you'll learn the concepts behind recurrent networks and see how a character-wise recurrent network is implemented in TensorFlow.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 2
-Siraj's Stock Prediction
+
+### LESSON 2: Siraj's Stock Prediction
 Siraj is going to predict the closing price of the S&P 500 using a special type of recurrent neural network called an LSTM network. He'll explain why we use recurrent nets for time series data, and why LSTMs boost our network's memory power.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 3
-Hyperparameters
+
+### LESSON 3: Hyperparameters
 In this lesson, we'll look at number of different hyperparameter that are important for our deep learning work. We'll discuss starting values and intuitions for tuning each hyperparameter.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 4
-Embeddings and Word2vec
+
+### LESSON 4: Embeddings and Word2vec
 In this lesson, you'll learn about embeddings in neural networks by implementing the word2vec model.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 5
-Siraj's Style Transfer
+
+### LESSON 5: Siraj's Style Transfer
 Siraj will show you how to generate art with deep learning networks. He'll also talk about the history of computer generated art, and why deep learning models are so good at making art.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 6
-Q&A with FloydHub Founders
+
+### LESSON 6: Q&A with FloydHub Founders
 A Q&A Session with Sai Soundararaj and Naren Thiagarajan from FloydHub.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 7
-TensorBoard
+
+### LESSON 7: TensorBoard
 In this lesson you'll learn about using TensorBoard to inspect your network. You can view the TensorFlow graph and the distributions of variables in the network. You can also use it to compare multiple training runs with different hyperparameters.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 8
-Siraj's Music Generation
+
+### LESSON 8: Siraj's Music Generation
 Siraj is going to build a music generating neural network trained on jazz songs in Keras. He'll go over the history of algorithmic generation, then he'll walk step by step through the process of how LSTM networks help us generate music.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 9
-Siraj's Text Summarization
+
+### LESSON 9: Siraj's Text Summarization
 Siraj will teach you how to transform an essay into a single sentence using Keras, and talk about word embeddings, encoder-decoder architectures and the role of attention in the theory of learning.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 10
-Sentiment Prediction RNN
+
+### LESSON 10: Sentiment Prediction RNN
 Implement a sentiment prediction RNN
 
-100% VIEWED
-SHRINK CARD
-View
-PROJECT
-Generate TV Scripts
+
+
+### PROJECT: Generate TV Scripts
 Generate a TV script using a recurrent neural network.
 
-COMPLETED
-SHRINK CARD
-View
-LESSON 12
-Sequence to Sequence
+
+### LESSON 12: Sequence to Sequence
 Here you'll learn about a specific architecture of RNNs for generating one sequence from another sequence. These RNNs are useful for chatbots, machine translation, and more!
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 13
-Siraj's Chatbot
+
+### LESSON 13: Siraj's Chatbot
 Siraj will make a Question Answering chatbot using Dynamic Memory Network. He'll go over different chatbot methodologies, then dive into how memory networks work, with accompanying code in Keras.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 14
-Transfer Learning in TensorFlow
+
+### LESSON 14: Transfer Learning in TensorFlow
 In practice, most people don't train their own networks on massive datasets. In this lesson, you'll learn how to use a pretrained network on a new problem with transfer learning.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 15
-Siraj's Language Translation
+
+### LESSON 15: Siraj's Language Translation
 Siraj will build his own language translator using Tensorflow! He'll go over several translation methods and talk about how Google Translate is able to achieve state of the art performance.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 16
-Reinforcement Learning
+
+### LESSON 16: Reinforcement Learning
 Here you'll learn about using reinforcement learning to train an AI agent to play games.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 17
-Siraj's Reinforcement Learning
+
+### LESSON 17: Siraj's Reinforcement Learning
 Siraj will show how to solve the multi-armed bandit problem (maximizing success for a given slot machine) using a reinforcement learning technique called policy gradients.
 
-100% VIEWED
-SHRINK CARD
-View
-PROJECT
-Translation Project
+
+### PROJECT: ranslation Project
 Use a neural network to translate from one language to another.
 
-COMPL
 
 -------
 
 ## PART 4
 
-ou have completed all requirements for Part 4
 
-100% VIEWED
-PROJECTSPROJECT COMPLETED
-
-
-View
-LESSON 1
-Siraj's Image Generation
+### LESSON 1:
+Siaj's Image Generation
 Siraj is going to build a variational autoencoder capable of generating novel images after being trained on a collection of images, using handwritten digit images as training data.
 
 100% VIEWED
