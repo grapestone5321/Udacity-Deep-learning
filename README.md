@@ -238,61 +238,37 @@ Use a neural network to translate from one language to another.
 ## PART 4
 
 
-### LESSON 1:
-Siaj's Image Generation
+### LESSON 1: Siaj's Image Generation
 Siraj is going to build a variational autoencoder capable of generating novel images after being trained on a collection of images, using handwritten digit images as training data.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 2
-Autoencoders
+
+### LESSON 2: Autoencoders
 Autoencoders are neural networks used for data compression, image denoising, and dimensionality reduction. Here, you'll build autoencoders using TensorFlow.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 3
-Generative Adversarial Networks
+
+### LESSON 3: Generative Adversarial Networks
 Ian Goodfellow, the inventor of GANs, introduces you to these exciting models. You'll also implement your own GAN on the MNIST dataset.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 4
-Siraj's Video Generation
+
+### LESSON 4: Siraj's Video Generation
 Siraj is going to use a Deep Convolutional GAN to generate images of the alien language from the movie arrival that we can then stitch together to animate into video.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 5
-Deep Convolutional GANs
+
+### LESSON 5: Deep Convolutional GANs
 In this lesson you'll implement a Deep Convolution GAN to generate complex color images of house numbers.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 6
-Siraj's One-Shot Learning
+
+### LESSON 6: Siraj's One-Shot Learning
 See how memory augmented neural networks can help achieve one-shot classification for a small labeled dataset. He'll also review the architecture of it's inspiration (the neural turing machine)
 
-100% VIEWED
-SHRINK CARD
-View
-PROJECT
-Generate Faces
+
+### PROJECT: Generate Faces
 Compete two neural networks against each other to generate realistic faces.
 
-COMPLETED
-SHRINK CARD
-View
-LESSON 8
-Semi-Supervised Learning
+
+### LESSON 8: Semi-Supervised Learning
 Ian Goodfellow leads you through a semi-supervised GAN model, a classifier that can learn from mostly unlabeled data.
 
-100% VIEWED
-SHRINK CARD
 
 
 
