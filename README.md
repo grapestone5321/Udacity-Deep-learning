@@ -2,9 +2,7 @@
 
 I started on March 23th, 2017, and I completed this Nanodegree on July 25th, 2017.
 
-## PART 1
-
-### Neural Networks
+## PART 1: Neural Networks
 
 Neural network is the bedrock to deep learning. 
 
@@ -15,9 +13,7 @@ In this section, you’ll learn how it works and test your ability by building a
 https://github.com/grapestone5321/dlnd_first-neural-netwok
 
 
-## PART 2
-
-### Convolutional Neural Networks
+## PART 2: Convolutional Neural Networks
 
 Convolutional neural network is the standard for solving vision problems. 
 
@@ -29,9 +25,7 @@ You’ll learn how this neural network works and apply to a image classification
 
 https://github.com/grapestone5321/dlnd_image-classification
 
-## PART 3
-
-## Recurrent Neural Networks
+## PART 3: Recurrent Neural Networks
 
 Recurrent neural network is great for predicting on sequential data like music and text. 
 
@@ -48,9 +42,7 @@ https://github.com/grapestone5321/dlnd_tv-script-generation
 https://github.com/grapestone5321/dlnd_language-translation
 
 
-## PART 4
-
-### Generative Adversarial Networks
+## PART 4: Generative Adversarial Networks
 
 Generative adversarial networks are a type of unsupervised learning where two neural networks compete against each other. 
 
@@ -73,7 +65,7 @@ Utilize your guaranteed admission and enroll into a Career-Ready Nanodegree Prog
 
 -------
 
-## PART 1
+## PART 1: Neural Networks
 
 
 ### LESSON 1: Welcome
@@ -109,7 +101,7 @@ In this project, you'll build and train your own Neural Network from scratch to 
 
 -------
 
-## PART 2
+## PART 2: Convolutional Neural Networks
 
 
 ### LESSON 1: Model Evaluation and Validation
@@ -156,7 +148,7 @@ Classify images from the CIFAR-10 dataset using a convolutional neural network.
 
 -------
 
-## PART 3
+## PART 3: Recurrent Neural Networks
 
 
 
@@ -235,7 +227,7 @@ Use a neural network to translate from one language to another.
 
 -------
 
-## PART 4
+## PART 4: Generative Adversarial Networks
 
 
 ### LESSON 1: Siaj's Image Generation
@@ -268,9 +260,6 @@ Compete two neural networks against each other to generate realistic faces.
 
 ### LESSON 8: Semi-Supervised Learning
 Ian Goodfellow leads you through a semi-supervised GAN model, a classifier that can learn from mostly unlabeled data.
-
-
-
 
 
 
