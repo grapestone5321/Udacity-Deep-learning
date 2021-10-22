@@ -112,81 +112,47 @@ In this project, you'll build and train your own Neural Network from scratch to 
 ## PART 2
 
 
-Proceed to Part 3 to continue learning
-
-100% VIEWED
-PROJECTSPROJECT COMPLETED
-
-
-View
-LESSON 1
-Model Evaluation and Validation
+### LESSON 1: Model Evaluation and Validation
 In this lesson, you'll learn some of the basics of training models. You'll learn the power of testing and cross validation, and some interesting metrics to evaluate models, such as accuracy or R2 score.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 2
-MiniFlow
+
+### LESSON 2: MiniFlow
 In this lesson, you'll build your own small version of TensorFlow, called MiniFlow. By building this, you'll gain an understanding of how TensorFlow works under the hood, and gain more insights into important concepts like backpropagation.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 3
-Sentiment Analysis with Andrew Trask
+
+### LESSON 3: Sentiment Analysis with Andrew Trask
 In this lesson, Andrew Trask, the author of Grokking Deep Learning, will walk you through using neural networks for sentiment analysis. In particular, you'll build a network that classifies movie reviews as positive or negative just based on their text!
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 4
-Intro to TensorFlow
+
+### LESSON 4: Intro to TensorFlow
 Vincent Vanhoucke, Principal Scientist at Google Brain, introduces you to deep learning and Tensorflow, Google's deep learning framework.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 5
+
+### LESSON 5
 Cloud Computing
 Take advantage of Amazon's GPUs to train your neural network faster. In this lesson, you'll setup an instance on AWS and train a neural network on a GPU.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 6
-Deep Neural Networks
+
+### LESSON 6: Deep Neural Networks
 Vincent walks you through how to go from a simple neural network to a deep neural network. You'll learn about why additional layers can help and how to prevent overfitting.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 7
-Convolutional Networks
+
+### LESSON 7: Convolutional Networks
 Vincent explains the theory behind Convolutional Neural Networks and how they help us dramatically improve performance in image classification.
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 8
-Siraj's Image Classification
+
+### LESSON 8: Siraj's Image Classification
 Siraj will go over the history of image classification, then he'll dive into the concepts behind convolutional networks and why they are so amazing. He'll also create an Image Classifier for cats & dogs in 40 lines of Python!
 
-100% VIEWED
-SHRINK CARD
-View
-LESSON 9
-Weight Initialization
+
+### LESSON 9: Weight Initialization
 In this lesson, you'll learn how to find good initial weights for a neural network. Having good initial weights can place the neural network close to the optimal solution. This allows the neural network to come to the best solution quicker.
 
-100% VIEWED
-SHRINK CARD
-View
-PROJECT
-Image Classification
+
+### PROJECT: Image Classification
 Classify images from the CIFAR-10 dataset using a convolutional neural network.
 
-COMP
+
 
 -------
 
